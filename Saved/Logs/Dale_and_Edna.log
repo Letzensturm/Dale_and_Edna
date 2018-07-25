@@ -1,0 +1,461 @@
+﻿Log file open, 07/25/18 14:35:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Dale_and_Edna
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.350801
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.116s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4212847
+LogInit: Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4712HQ CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Jul 14 2018 09:51:14
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.25-21.35.16:017][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.25-21.35.16:017][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.25-21.35.16:037][  0]LogHAL: Display: Platform has ~ 16 GB [17078218752 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.07.25-21.35.16:037][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.07.25-21.35.16:037][  0]LogInit: Going up to parent DeviceProfile []
+[2018.07.25-21.35.16:044][  0]LogInit: Computer: ADAMLTK_PC
+[2018.07.25-21.35.16:044][  0]LogInit: User: User
+[2018.07.25-21.35.16:044][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.25-21.35.16:044][  0]LogInit: High frequency timer resolution =2.240915 MHz
+[2018.07.25-21.35.16:044][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.25-21.35.16:044][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.25-21.35.16:044][  0]LogMemory: Process Physical Memory: 100.53 MB used, 100.53 MB peak
+[2018.07.25-21.35.16:044][  0]LogMemory: Process Virtual Memory: 89.58 MB used, 89.58 MB peak
+[2018.07.25-21.35.16:044][  0]LogMemory: Physical Memory: 4258.59 MB used,  12028.46 MB free, 16287.06 MB total
+[2018.07.25-21.35.16:044][  0]LogMemory: Virtual Memory: 4637.66 MB used,  12028.46 MB free, 134217728.00 MB total
+[2018.07.25-21.35.16:210][  0]LogInit: Using OS detected language (en-US).
+[2018.07.25-21.35.16:210][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.25-21.35.16:211][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.25-21.35.16:714][  0]LogStreaming: Display: Took  0.505s to InitEngineTextLocalization.
+[2018.07.25-21.35.16:715][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.25-21.35.16:797][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.25-21.35.16:797][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.25-21.35.19:226][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.25-21.35.19:226][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.25-21.35.20:037][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K1100M' (Feature Level 11_0)
+[2018.07.25-21.35.20:037][  0]LogD3D11RHI:       2009/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.25-21.35.20:044][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.07.25-21.35.20:044][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.07.25-21.35.20:046][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.25-21.35.20:046][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.25-21.35.20:046][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.25-21.35.20:064][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.25-21.35.20:064][  0]LogD3D11RHI:     GPU DeviceId: 0xff6 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.25-21.35.20:064][  0]LogWindows: EnumDisplayDevices:
+[2018.07.25-21.35.20:064][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.07.25-21.35.20:064][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2018.07.25-21.35.20:064][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.07.25-21.35.20:065][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.25-21.35.20:065][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K1100M
+[2018.07.25-21.35.20:065][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.25-21.35.20:065][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.25-21.35.20:065][  0]LogRHI: Texture pool is 1406 MB (70% of 2009 MB)
+[2018.07.25-21.35.20:098][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.25-21.35.20:115][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.25-21.35.20:116][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Intermediate/Shaders/WorkingDirectory/11136/).
+[2018.07.25-21.35.20:116][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Adam/AppData/Local/Temp/UnrealShaderWorkingDir/524CE0A644F1E1CC0A4814AD83FBBA97/'.
+[2018.07.25-21.35.20:549][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.25-21.35.20:579][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.25-21.35.20:605][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.25-21.35.20:633][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.25-21.35.20:665][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.25-21.35.20:692][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.25-21.35.20:720][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.25-21.35.20:747][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.25-21.35.20:766][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.25-21.35.20:890][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.25-21.35.20:996][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.25-21.35.20:996][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.25-21.35.21:034][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.25-21.35.21:034][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.25-21.35.21:058][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.25-21.35.21:083][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.25-21.35.21:113][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.25-21.35.21:148][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.25-21.35.21:169][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.07.25-21.35.21:169][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.25-21.35.21:454][  0]LogXGEController: Cleaning working directory: C:/Users/Adam/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.25-21.35.21:454][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.25-21.35.21:454][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.25-21.35.21:454][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.25-21.35.23:549][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.25-21.35.23:611][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Adam/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.07.25-21.35.23:611][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Adam/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.07.25-21.35.23:611][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.25-21.35.23:612][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.25-21.35.23:612][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.25-21.35.23:612][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.25-21.35.23:632][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.25-21.35.23:645][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Adam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.25-21.35.23:645][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.25-21.35.23:645][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.25-21.35.23:666][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.25-21.35.23:668][  0]LogSlate: Using FreeType 2.6.0
+[2018.07.25-21.35.23:675][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.25-21.35.23:880][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.07.25-21.35.24:250][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.25-21.35.24:587][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.25-21.35.24:615][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.25-21.35.24:615][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.07.25-21.35.24:615][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.25-21.35.24:615][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.25-21.35.24:668][  0]LogNetVersion: Dale_and_Edna 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1217615663)
+[2018.07.25-21.35.25:698][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.116681 seconds
+[2018.07.25-21.35.25:706][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.07.25-21.35.25:706][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.07.25-21.35.25:706][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.25-21.35.28:732][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.25-21.35.28:774][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.25-21.35.29:167][  0]SourceControl: Source control is disabled
+[2018.07.25-21.35.29:167][  0]SourceControl: Source control is disabled
+[2018.07.25-21.35.29:182][  0]SourceControl: Source control is disabled
+[2018.07.25-21.35.29:194][  0]SourceControl: Source control is disabled
+[2018.07.25-21.35.29:800][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.25-21.35.29:973][  0]LogOcInput: OculusInput pre-init called
+[2018.07.25-21.35.30:104][  0]LogEngine: Initializing Engine...
+[2018.07.25-21.35.30:104][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.25-21.35.30:105][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.07.25-21.35.30:106][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.25-21.35.30:106][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.07.25-21.35.30:106][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.25-21.35.30:352][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.07.25-21.35.30:387][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.25-21.35.30:407][  0]LogInit: XAudio2 using 'Speakers (BEHRINGER UMC 204HD 192k)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.25-21.35.30:506][  0]LogInit: FAudioDevice initialized.
+[2018.07.25-21.35.30:506][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.07.25-21.35.30:601][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Adam/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.07.25-21.35.30:604][  0]LogInit: Texture streaming: Enabled
+[2018.07.25-21.35.30:665][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.25-21.35.30:693][  0]LogInit: Transaction tracking system initialized
+[2018.07.25-21.35.30:777][  0]BlueprintLog: New page: Editor Load
+[2018.07.25-21.35.31:118][  0]LocalizationService: Localization service is disabled
+[2018.07.25-21.35.31:597][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/ as it doesn't exist.
+[2018.07.25-21.35.31:597][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.25-21.35.31:597][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.25-21.35.31:597][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.25-21.35.31:597][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.07.25-21.35.31:597][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.25-21.35.31:598][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.07.25-21.35.31:598][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.25-21.35.32:094][  0]SourceControl: Source control is disabled
+[2018.07.25-21.35.32:094][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.25-21.35.32:095][  0]LightingResults: New page: Lighting Build
+[2018.07.25-21.35.32:097][  0]MapCheck: New page: Map Check
+[2018.07.25-21.35.32:097][  0]LightingResults: New page: Lighting Build
+[2018.07.25-21.35.32:331][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.25-21.35.32:338][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.25-21.35.32:364][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.25-21.35.32:431][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.429ms to complete.
+[2018.07.25-21.35.32:431][  0]LogFileHelpers: Loading map 'Template_Default' took 0.336
+[2018.07.25-21.35.32:575][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.25-21.35.32:583][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.25-21.35.32:591][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.25-21.35.32:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.25-21.35.32:620][  0]LogCollectionManager: Loaded 0 collections in 0.001507 seconds
+[2018.07.25-21.35.32:673][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Collections/' took 0.01s
+[2018.07.25-21.35.32:673][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Developers/User/Collections/' took 0.01s
+[2018.07.25-21.35.32:673][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Collections/' took 0.01s
+[2018.07.25-21.35.32:673][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.25-21.35.32:684][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2572 classes and 603 folders.
+[2018.07.25-21.35.32:691][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.25-21.35.33:029][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.25-21.35.33:048][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.07.25-21.35.33:069][  0]LogSlate: Took 0.006106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.25-21.35.33:076][  0]LogSlate: Took 0.005174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.25-21.35.33:089][  0]LogSlate: Took 0.007385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.25-21.35.33:217][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.07.25-21.35.33:458][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.25-21.35.33:458][  0]LogLoad: (Engine Initialization) Total time: 20.38 seconds
+[2018.07.25-21.35.33:458][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.25-21.35.33:498][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.07.25-21.35.33:526][  1]LogAssetRegistry: Asset discovery search completed in 9.6682 seconds
+[2018.07.25-21.35.33:528][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.25-21.35.33:528][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2018.07.25-21.35.35:128][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.25-21.35.37:104][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.25-21.35.53:507][961]LogSlate: Window 'Source Control Login' being destroyed
+[2018.07.25-21.36.08:768][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.25-21.36.11:892][863]LogSlate: Took 0.004656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.25-21.37.08:072][931]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.25-21.37.08:206][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Alien_Fighter_Downed.wav)
+[2018.07.25-21.37.08:302][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Alien_Fighter_Flying.wav)
+[2018.07.25-21.37.08:392][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Alien_Fighter_Gun_Blip.wav)
+[2018.07.25-21.37.08:467][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Alien_Fighter_Gun_Pew.wav)
+[2018.07.25-21.37.08:548][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Alien_Mothership_Gun_Large.wav)
+[2018.07.25-21.37.08:626][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Alien_Mothership_Gun_Small.wav)
+[2018.07.25-21.37.08:807][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Alien_Mothership_Hovering.wav)
+[2018.07.25-21.37.09:000][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Alien_Mothership_Phase_Cycling.wav)
+[2018.07.25-21.37.09:140][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Ground_Pound.wav)
+[2018.07.25-21.37.09:221][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Plane_Downed.wav)
+[2018.07.25-21.37.09:310][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Plane_Flying.wav)
+[2018.07.25-21.37.09:394][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Plane_Shooting_Bullets.wav)
+[2018.07.25-21.37.09:474][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Plane_Shooting_Shells.wav)
+[2018.07.25-21.37.09:555][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Pumpkin_Crush.wav)
+[2018.07.25-21.37.09:637][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Shotgun_Blast.wav)
+[2018.07.25-21.37.09:726][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Tractor_Brake.wav)
+[2018.07.25-21.37.09:824][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Tractor_Driving.wav)
+[2018.07.25-21.37.09:915][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Tractor_Idling.wav)
+[2018.07.25-21.37.09:996][931]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/SFX/Tractor_Starting.wav)
+[2018.07.25-21.37.22:570][528]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Alien_Fighter_Downed...
+[2018.07.25-21.37.22:571][528]LogTemp: Couldn't find amount to resample to.
+[2018.07.25-21.37.22:825][528]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1682100 while cooking SoundWave /Game/Sounds/SFX/Alien_Fighter_Downed.Alien_Fighter_Downed.
+[2018.07.25-21.37.39:919][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Alien_Fighter_Downed" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Alien_Fighter_Downed.uasset" SILENT=true
+[2018.07.25-21.37.39:934][510]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Alien_Fighter_DownedAA501A0E4AA3EDCF775A16860004591F.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Alien_Fighter_Downed.uasset'
+[2018.07.25-21.37.42:896][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Alien_Fighter_Flying" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Alien_Fighter_Flying.uasset" SILENT=true
+[2018.07.25-21.37.42:908][647]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Alien_Fighter_FlyingAC28A7A34CCFC49429A3D39FE50B51D5.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Alien_Fighter_Flying.uasset'
+[2018.07.25-21.37.45:217][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Alien_Fighter_Gun_Blip" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Alien_Fighter_Gun_Blip.uasset" SILENT=true
+[2018.07.25-21.37.45:228][755]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Alien_Fighter_Gun_BlipFECE9516443D146153D9829C7EB2DFB8.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Alien_Fighter_Gun_Blip.uasset'
+[2018.07.25-21.37.49:857][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Alien_Fighter_Gun_Pew" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Alien_Fighter_Gun_Pew.uasset" SILENT=true
+[2018.07.25-21.37.49:869][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Alien_Fighter_Gun_Pew9099A9874270B6AFE06C0AA6D0AB3D31.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Alien_Fighter_Gun_Pew.uasset'
+[2018.07.25-21.37.50:036][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Alien_Mothership_Gun_Large2AAF40F640E571B8654AEC810D1D8BC9.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Alien_Mothership_Gun_Large.uasset'
+[2018.07.25-21.37.50:214][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Alien_Mothership_Gun_SmallB45290784C18D5E190EA9C9AF4C540CA.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Alien_Mothership_Gun_Small.uasset'
+[2018.07.25-21.37.50:372][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Alien_Mothership_Hovering" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Alien_Mothership_Hovering.uasset" SILENT=true
+[2018.07.25-21.37.50:491][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Alien_Mothership_HoveringA0D0CBA34480034B7C35C2AC2627399C.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Alien_Mothership_Hovering.uasset'
+[2018.07.25-21.37.51:161][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Alien_Mothership_Phase_Cycling94B35D2441CA6F1DBCE2B182AB326A72.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Alien_Mothership_Phase_Cycling.uasset'
+[2018.07.25-21.37.52:114][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Ground_Pound" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Ground_Pound.uasset" SILENT=true
+[2018.07.25-21.37.52:125][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Ground_Pound6A2E24DF41D3E7EF473D6691919F46C3.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Ground_Pound.uasset'
+[2018.07.25-21.37.52:276][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Plane_Downed" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Plane_Downed.uasset" SILENT=true
+[2018.07.25-21.37.52:288][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Plane_Downed28A766DD49C5C2AEBC428CACD25C3223.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Plane_Downed.uasset'
+[2018.07.25-21.37.52:460][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Plane_Flying" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Plane_Flying.uasset" SILENT=true
+[2018.07.25-21.37.52:474][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Plane_FlyingE701EA0845726C6AB7C40E9409533E7A.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Plane_Flying.uasset'
+[2018.07.25-21.37.52:747][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Plane_Shooting_Bullets" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Plane_Shooting_Bullets.uasset" SILENT=true
+[2018.07.25-21.37.52:758][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Plane_Shooting_Bullets931BB18F4042A907D8931EA4D13A7D42.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Plane_Shooting_Bullets.uasset'
+[2018.07.25-21.37.52:990][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Plane_Shooting_Shells" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Plane_Shooting_Shells.uasset" SILENT=true
+[2018.07.25-21.37.53:002][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Plane_Shooting_ShellsB9D756AB46CE5758A5BF10BB3487647E.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Plane_Shooting_Shells.uasset'
+[2018.07.25-21.37.53:213][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Pumpkin_Crush" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Pumpkin_Crush.uasset" SILENT=true
+[2018.07.25-21.37.53:225][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Pumpkin_Crush562D21744EF61A712D2751B884348F20.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Pumpkin_Crush.uasset'
+[2018.07.25-21.37.53:388][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Shotgun_Blast" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Shotgun_Blast.uasset" SILENT=true
+[2018.07.25-21.37.53:400][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Shotgun_Blast36430D954950AB17A8FEAAAF746B4DE2.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Shotgun_Blast.uasset'
+[2018.07.25-21.37.53:575][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Tractor_Brake" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Tractor_Brake.uasset" SILENT=true
+[2018.07.25-21.37.53:586][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Tractor_BrakeD760748D433E3163D15FB681C50971EA.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Tractor_Brake.uasset'
+[2018.07.25-21.37.53:760][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Tractor_Driving" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Tractor_Driving.uasset" SILENT=true
+[2018.07.25-21.37.53:773][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Tractor_DrivingC13752274882CB11CD3648965E2F2A6D.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Tractor_Driving.uasset'
+[2018.07.25-21.37.54:092][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Tractor_Idling" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Tractor_Idling.uasset" SILENT=true
+[2018.07.25-21.37.54:104][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Tractor_IdlingE82B02F94AC71298F55FBAB93FDB289B.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Tractor_Idling.uasset'
+[2018.07.25-21.37.54:286][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/SFX/Tractor_Starting" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Tractor_Starting.uasset" SILENT=true
+[2018.07.25-21.37.54:306][974]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Tractor_StartingD7C345F64523C7771B27D6A3D8F0A312.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/SFX/Tractor_Starting.uasset'
+[2018.07.25-21.38.04:930][529]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.25-21.38.05:926][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.25-21.38.28:548][361]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/Scores/Additive_V1_Keyboards.wav)
+[2018.07.25-21.38.28:843][361]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/Scores/Additive_V1_Percussion.wav)
+[2018.07.25-21.38.29:134][361]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/Scores/Additive_V1_Strings.wav)
+[2018.07.25-21.38.29:420][361]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/Scores/Additive_V1_Synths.wav)
+[2018.07.25-21.38.29:713][361]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/Scores/Additive_V1_Winds.wav)
+[2018.07.25-21.38.29:935][361]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/Scores/Additive_V2_Drone.wav)
+[2018.07.25-21.38.30:119][361]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/Scores/Additive_V2_Drums.wav)
+[2018.07.25-21.38.30:303][361]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/Scores/Additive_V2_Strings.wav)
+[2018.07.25-21.38.30:469][361]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/Scores/Additive_V2_Synth.wav)
+[2018.07.25-21.38.30:652][361]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 F:/FL_Studio/Audio_Data/Rendered/Dale_Edna/Scores/Additive_V2_Winds.wav)
+[2018.07.25-21.38.35:595][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Additive_V1_Keyboards" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V1_Keyboards.uasset" SILENT=true
+[2018.07.25-21.38.35:622][597]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Additive_V1_KeyboardsFF6A2AB749473876FF6A8BA52BC7084E.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V1_Keyboards.uasset'
+[2018.07.25-21.38.36:177][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Additive_V1_Percussion" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V1_Percussion.uasset" SILENT=true
+[2018.07.25-21.38.36:209][597]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Additive_V1_PercussionC796702A4DC40E6279D745ABCEEC4E31.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V1_Percussion.uasset'
+[2018.07.25-21.38.37:122][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Additive_V1_Strings" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V1_Strings.uasset" SILENT=true
+[2018.07.25-21.38.37:145][597]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Additive_V1_Strings4CFE9A17447AB29D83271A98FE27A90F.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V1_Strings.uasset'
+[2018.07.25-21.38.37:821][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Additive_V1_Synths" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V1_Synths.uasset" SILENT=true
+[2018.07.25-21.38.37:846][597]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Additive_V1_Synths70C47DE648BA4ED6937760BEAD2B1375.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V1_Synths.uasset'
+[2018.07.25-21.38.39:245][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Additive_V1_Winds" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V1_Winds.uasset" SILENT=true
+[2018.07.25-21.38.39:271][597]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Additive_V1_WindsE6C207A04E03358F0D9EEEAEF1A34655.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V1_Winds.uasset'
+[2018.07.25-21.38.40:131][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Additive_V2_Drone" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V2_Drone.uasset" SILENT=true
+[2018.07.25-21.38.40:146][597]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Additive_V2_DroneE21571984A7967DB96721798021E5212.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V2_Drone.uasset'
+[2018.07.25-21.38.40:915][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Additive_V2_Drums" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V2_Drums.uasset" SILENT=true
+[2018.07.25-21.38.40:931][597]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Additive_V2_Drums220082344D27BF6192E3598AB2F7A798.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V2_Drums.uasset'
+[2018.07.25-21.38.41:486][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Additive_V2_Strings" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V2_Strings.uasset" SILENT=true
+[2018.07.25-21.38.41:501][597]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Additive_V2_Strings19291B95428B2D57D14D55A37B7A8502.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V2_Strings.uasset'
+[2018.07.25-21.38.42:128][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Additive_V2_Synth" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V2_Synth.uasset" SILENT=true
+[2018.07.25-21.38.42:143][597]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Additive_V2_SynthBD22A1EC45A5ED59C96F9D85C2323E33.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V2_Synth.uasset'
+[2018.07.25-21.38.42:826][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Music/Additive_V2_Winds" FILE="../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V2_Winds.uasset" SILENT=true
+[2018.07.25-21.38.42:841][597]LogSavePackage: Moving '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Saved/Additive_V2_WindsF15C5ECC4147D92E2C9273858FB18F9D.tmp' to '../../../../../../Users/Adam/Documents/GitHub/Dale_and_Edna/Content/Sounds/Music/Additive_V2_Winds.uasset'
+[2018.07.25-21.39.17:258][119]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.07.25-21.39.39:021][119]LogSlate: Window 'Submit Files' being destroyed
+[2018.07.25-21.39.41:856][119]LogSourceControl: commit successful: [master fafb613] Added sfx and music assets.
+[2018.07.25-21.39.41:946][119]SourceControl: [master fafb613] Added sfx and music assets.
+[2018.07.25-21.39.41:946][119]SourceControl:  29 files changed, 0 insertions(+), 0 deletions(-)
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/Music/Additive_V1_Keyboards.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/Music/Additive_V1_Percussion.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/Music/Additive_V1_Strings.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/Music/Additive_V1_Synths.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/Music/Additive_V1_Winds.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/Music/Additive_V2_Drone.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/Music/Additive_V2_Drums.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/Music/Additive_V2_Strings.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/Music/Additive_V2_Synth.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/Music/Additive_V2_Winds.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Alien_Fighter_Downed.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Alien_Fighter_Flying.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Alien_Fighter_Gun_Blip.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Alien_Fighter_Gun_Pew.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Alien_Mothership_Gun_Large.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Alien_Mothership_Gun_Small.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Alien_Mothership_Hovering.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Alien_Mothership_Phase_Cycling.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Ground_Pound.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Plane_Downed.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Plane_Flying.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Plane_Shooting_Bullets.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Plane_Shooting_Shells.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Pumpkin_Crush.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Shotgun_Blast.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Tractor_Brake.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Tractor_Driving.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Tractor_Idling.uasset
+[2018.07.25-21.39.41:946][119]SourceControl:  create mode 100644 Content/Sounds/SFX/Tractor_Starting.uasset
+[2018.07.25-21.39.41:961][119]SourceControl: Commited [master fafb613] Added sfx and music assets..
